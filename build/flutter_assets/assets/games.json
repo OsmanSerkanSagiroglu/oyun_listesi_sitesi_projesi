@@ -1,0 +1,173 @@
+[
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "year": "2017",
+    "platform": "Nintendo Switch",
+    "genre": "Action-Adventure",
+    "description": "Explore the vast world of Hyrule in this critically acclaimed action-adventure game.",
+    "metacriticUrl": "https://www.metacritic.com/game/switch/the-legend-of-zelda-breath-of-the-wild",
+    "imageUrl": "https://cdn.europosters.eu/image/1300/111060.jpg"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "year": "2018",
+    "platform": "PlayStation 4, Xbox One, PC",
+    "genre": "Action-Adventure",
+    "description": "Experience the life of an outlaw in this epic tale of America’s unforgiving heartland.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/red-dead-redemption-2",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-689098-52.jpg"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "year": "2015",
+    "platform": "PlayStation 4, Xbox One, PC, Switch",
+    "genre": "RPG",
+    "description": "Embark on a dark fantasy adventure as Geralt of Rivia, a professional monster hunter.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/the-witcher-3-wild-hunt",
+    "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png"
+  },
+  {
+    "title": "God of War",
+    "year": "2018",
+    "platform": "PlayStation 4",
+    "genre": "Action",
+    "description": "Follow Kratos and his son Atreus on an epic journey through Norse mythology.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/god-of-war",
+    "imageUrl": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "year": "2013",
+    "platform": "PlayStation 4, Xbox One, PC",
+    "genre": "Action-Adventure",
+    "description": "Enter the world of Los Santos and engage in various criminal activities.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/grand-theft-auto-v",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png"
+  },
+  {
+    "title": "Hades",
+    "year": "2020",
+    "platform": "Switch, PC",
+    "genre": "Roguelike, Action",
+    "description": "Battle your way out of the Underworld in this rogue-like dungeon crawler.",
+    "metacriticUrl": "https://www.metacritic.com/game/switch/hades",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-735556-52.jpg"
+  },
+  {
+    "title": "Persona 5 Royal",
+    "year": "2016",
+    "platform": "PlayStation 4",
+    "genre": "RPG",
+    "description": "Join the Phantom Thieves and fight against societal corruption in this enhanced version of Persona 5.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/persona-5-royal",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-734746-52.jpg"
+  },
+  {
+    "title": "Elden Ring",
+    "year": "2022",
+    "platform": "PlayStation 5, PlayStation 4, Xbox Series X/S, Xbox One, PC",
+    "genre": "Action RPG",
+    "description": "Explore a vast, dark fantasy world created by Hidetaka Miyazaki and George R. R. Martin.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-5/elden-ring",
+    "imageUrl": "https://m.media-amazon.com/images/I/81h2WhI4dtL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Disco Elysium",
+    "year": "2019",
+    "platform": "PC, PlayStation 4, Xbox One, Switch",
+    "genre": "RPG",
+    "description": "Solve a murder mystery in this groundbreaking, narrative-driven RPG.",
+    "metacriticUrl": "https://www.metacritic.com/game/pc/disco-elysium",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-756054-52.jpg"
+  },
+  {
+    "title": "Bloodborne",
+    "year": "2015",
+    "platform": "PlayStation 4",
+    "genre": "Action RPG",
+    "description": "Enter the gothic, horror-filled city of Yharnam and uncover its dark secrets.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/bloodborne",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-518836-52.jpg"
+  },
+  {
+    "title": "Sekiro: Shadows Die Twice",
+    "year": "2019",
+    "platform": "PlayStation 4, Xbox One, PC",
+    "genre": "Action-Adventure",
+    "description": "Take on the role of a shinobi in this challenging, stealth-based action game.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/sekiro-shadows-die-twice",
+    "imageUrl": "https://m.media-amazon.com/images/I/61lIWdxZX7L._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "title": "Half-Life: Alyx",
+    "year": "2020",
+    "platform": "PC (VR)",
+    "genre": "First-Person Shooter, VR",
+    "description": "Step into the shoes of Alyx Vance in this virtual reality adventure set in the Half-Life universe.",
+    "metacriticUrl": "https://www.metacritic.com/game/pc/half-life-alyx",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-733130-52.jpg"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "year": "2020",
+    "platform": "PlayStation 4, Xbox One, PC, Stadia",
+    "genre": "RPG",
+    "description": "Navigate the dystopian world of Night City as a mercenary in this open-world RPG.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/cyberpunk-2077",
+    "imageUrl": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077UltimateEdition_CDPROJEKTRED_Editions_S2_1200x1600-81442c61fd09b45ecd03add7c0c3afdd"
+  },
+  {
+    "title": "Dark Souls III",
+    "year": "2016",
+    "platform": "PlayStation 4, Xbox One, PC",
+    "genre": "Action RPG",
+    "description": "Challenge yourself in this dark and difficult action RPG set in a decaying world.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/dark-souls-iii",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-607073-52.jpg"
+  },
+  {
+    "title": "Hollow Knight",
+    "year": "2017",
+    "platform": "Switch, PC, PlayStation 4, Xbox One",
+    "genre": "Metroidvania",
+    "description": "Explore the hauntingly beautiful world of Hallownest in this action-adventure game.",
+    "metacriticUrl": "https://www.metacritic.com/game/switch/hollow-knight",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-623148-52.jpg"
+  },
+  {
+    "title": "Marvel’s Spider-Man",
+    "year": "2018",
+    "platform": "PlayStation 4",
+    "genre": "Action-Adventure",
+    "description": "Swing through New York City as Spider-Man and take down villains in this exciting open-world game.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/marvels-spider-man",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-668512-52.jpg"
+  },
+  {
+    "title": "Control",
+    "year": "2019",
+    "platform": "PlayStation 4, Xbox One, PC",
+    "genre": "Action-Adventure",
+    "description": "Uncover the mysteries of the Federal Bureau of Control in this supernatural third-person shooter.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/control",
+    "imageUrl": "https://image.api.playstation.com/vulcan/img/cfn/11307xMxsC9RA7A8rQH4GiePP0BxYP_K8tJU1cWXe4eA189Q0ImmN8eZvJBx91eecK_vHIT2WZrrkqwKfiYvNGIu8NA2zvSV.png"
+  },
+  {
+    "title": "NieR: Automata",
+    "year":  "2016",
+    "platform": "PlayStation 4, Xbox One, PC",
+    "genre": "Action RPG",
+    "description": "Discover a story of androids and robots in a post-apocalyptic world in this action RPG.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/nier-automata",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-625561-52.jpg"
+  },
+  {
+    "title": "Monster Hunter: World",
+    "year": "2018",
+    "Platform": "PlayStation 4, Xbox One, PC",
+    "Genre": "Action RPG",
+    "Description": "Hunt down colossal monsters in this action-packed RPG set in a vibrant world.",
+    "metacriticUrl": "https://www.metacritic.com/game/playstation-4/monster-hunter-world",
+    "imageUrl": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-660127-52.jpg"
+  }
+]
