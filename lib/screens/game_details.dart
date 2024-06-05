@@ -56,9 +56,9 @@ class GameDetailsPage extends StatelessWidget {
                   const SizedBox(height: 16.0),
                   ElevatedButton(
                     onPressed: () async {
-                      final url = game.metacriticUrl as Uri;
-                      if (await canLaunchUrl(url.toString() as Uri)) {
-                        await launchUrl(url.toString() as Uri);
+                      final url = Uri.parse(game.metacriticUrl);
+                      if (await canLaunchUrl(url)) {
+                        await launchUrl(url);
                       } else {
                         throw 'Could not launch Metacritic URL: $url'; // Provide a more informative error message
                       }

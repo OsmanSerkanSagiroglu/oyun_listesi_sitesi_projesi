@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
         title: 'Game List',
         theme: ThemeData(
           primarySwatch: Colors.blue,
+          fontFamily:  'RobotoMono',
         ),
         home: const GameListPage(),
       ),
